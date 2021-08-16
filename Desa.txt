@@ -1,0 +1,31 @@
+Jumlah Masyarakat Desa 
+
+RT/RW : 001/001
+Laki- Laki : 349
+Perempuan : 318
+
+RT/RW : 002/001
+Laki - Laki : 352
+Perempuan : 297
+
+RT/RW : 003/001
+Laki - Laki : 361
+Perempuan : 307
+
+RT/RW : 001/002
+Laki-laki : 384
+Perempuan : 394
+
+RT/RW : 002/002
+Laki -Laki :297
+Perempuan : 
+Jumlah : 592
+
+RT/RW : 001/003
+Laki - laki :227
+Perempuan : 204
+
+RT/RW : 002/003
+Laki -laki : 
+Perempuan : 358
+Jumlah : 725 
